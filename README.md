@@ -14,7 +14,6 @@ Erah is your B2B prospecting and pre sales team! We are specialists in sales out
  <table>
   <tr>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102304472?v=4" width="100px;" alt=""/><br /><sub><b>Anderson Santos</b></sub><br />🚀</td>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80782049?v=4" width="100px;" alt=""/><br /><sub><b>Letícia Daniele Perotti</b></sub><br />🚀</td>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/95416508?v=4" width="100px;" alt=""/><br /><sub><b>Sabrina Naderer</b></sub><br />🚀</td>
     
     
